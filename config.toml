@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = "https://idt-id.github.io/mycv/"
 languageCode = "en-us"
 title = "CV Ferilee"
 theme = "hugo-orbit-theme"
