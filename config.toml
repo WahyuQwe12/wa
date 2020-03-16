@@ -195,28 +195,28 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
-                
-        [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
-
-        [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
-
-        [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
-
-        [[params.skills.list]]
-        skill = "Ruby on Rails"
+        skill = "Inkscape & Gimp"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "Kdenlive & Shotcut"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "LibreOffice"
+        level = "85%"
+
+        [[params.skills.list]]
+        skill = "HTML5 & CSS"
+        level = "70%"
+
+        [[params.skills.list]]
+        skill = "Moodle & Google Classroom"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "H5P & Desain Multimedia Interaktif"
+        level = "85%"
 
     # Footer section
 
@@ -224,7 +224,7 @@ disable404 = true
     # Please keep the original attribution link when using for your own project.
     # If you'd like to use the template without the attribution,
     # you can check out other license options via template author's website: themes.3rdwavemedia.com
-    # 
+    #
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [params.footer]
