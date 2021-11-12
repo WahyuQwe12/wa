@@ -2,7 +2,7 @@
 
 baseurl = "https://idt-id.github.io/mycv/"
 languageCode = "en-us"
-title = "CV Ferilee"
+title = "CV Wahyu"
 theme = "hugo-orbit-theme"
 publishDir = "docs"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -15,8 +15,8 @@ disable404 = true
 [params]
 
 # Meta
-    description = "CV Ferilee"
-    author = "Ferilee"
+    description = "CV Wahyu"
+    author = "Wahyu"
 
 # Theme styles
 
@@ -31,8 +31,8 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "Ferilee"
-        tagline = "Full Stack Developer"
+        name = "Wahyu"
+        tagline = "Student"
         avatar = "profile.png"
 
     # Contact section
